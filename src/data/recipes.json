@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pasta",
+    "ingredients": ["Pasta", "Tomato Sauce", "Cheese"],
+    "directions": "Cook pasta, add sauce, sprinkle cheese, and heat.",
+    "description": "A classic Italian pasta dish.",
+    "image": "pasta.jpg"
+  },
+  {
+    "name": "Salmon",
+    "ingredients": ["Salmon", "Lemon", "Herbs"],
+    "directions": "Season salmon, bake with lemon and herbs.",
+    "description": "A healthy and delicious seafood dish.",
+    "image": "salmon.jpg"
+  }
+]
